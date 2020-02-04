@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eegheeghif.geaz.de/sitemap.xml
